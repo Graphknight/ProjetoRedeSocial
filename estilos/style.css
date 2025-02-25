@@ -32,3 +32,10 @@ section#cel{
     width: 311px;
     background: url(../imagens/frame-iphone.png);
 }
+
+iframe#tela{
+    margin-top: 80px;
+    margin-left: 22px;
+    height: 469px;
+    width: 264px;
+}
